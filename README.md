@@ -44,3 +44,6 @@ This project requires you to think conceptually about how to solve nuanced langu
 * **Proficiency with Gen AI Tools:** Your choice and implementation of modern NLP models/frameworks.
 * **Clarity of Explanation:** How well you justify your design decisions and explain the system's capabilities and limitations in the README.
 * **Code Quality:** The clarity and organization of your implementation.
+
+## Disclaimer: Data and Evaluation Criteria
+Please be advised that the datasets utilized in this project are synthetically generated and intended for illustrative purposes only. Furthermore, they have been significantly reduced in terms of sample size and the number of features to streamline the exercise. They do not represent or correspond to any actual business data. The primary objective of this evaluation is to assess the problem-solving methodology and the strategic approach employed, not necessarily the best possible tailored solution for the data. 
